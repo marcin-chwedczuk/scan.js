@@ -1,6 +1,6 @@
 {
   "name": "scan.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ANSI C scanf JavaScript port",
   "main": "index.js",
   "directories": {
